@@ -1,6 +1,7 @@
 #include "inode.h"
 #include "pages.h"
-#include "bitmap.h"
+#include "helpers/bitmap.h"
+#include "helpers/blocks.h"
 #include <stdint.h>
 #include "util.h"
 
